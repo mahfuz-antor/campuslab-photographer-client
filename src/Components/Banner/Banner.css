@@ -1,0 +1,12 @@
+.bannerBG{
+    background-image: url('../../images/bg-ful.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bannerTittle{
+    background-image: url('../../images/bg-1.jpg');
+    background-size: cover;
+    padding: 20% 0;
+    color: #fb8204;
+    border-radius: 10px;
+}
